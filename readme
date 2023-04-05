@@ -1,4 +1,4 @@
-This repository contains all of the code necessary to run the Agriculture Human Health Micro-Economic Burden (AHHME-B) model, which estimates the holistic societal burden of AMR at the national level <br>
-In order to run the model, download the Functions.R, Results.R, and input spreadsheet.csv files and save them in the same folder on your computer. Install the required packages, and then run the Results.R file to generate results <br>
-You can alter the parameters in the input spreadsheet in order to parameterise the model to your country context <br>
+This repository contains all of the code necessary to run the Agriculture Human Health Micro-Economic Burden (AHHME-B) model, which estimates the holistic societal burden of AMR at the national level 
+In order to run the model, download the Functions.R, Results.R, and input spreadsheet.csv files and save them in the same folder on your computer. Install the required packages, and then run the Results.R file to generate results 
+You can alter the parameters in the input spreadsheet in order to parameterise the model to your country context 
 To explore the interactive online app of this model, which is more user friendly and should be used for exploratory analysis, check out https://eveemes.shinyapps.io/AHHME-B/ 
